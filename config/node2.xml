@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<company>
+	<Node id="Bartosz">
+		<serverport>11112</serverport>
+	</Node>
+	<Route id="Artur">	
+		<path>Ksenia->Wlodzimierz->Artur</path>
+	</Route>
+	<Route id="Ksenia">	
+		<path>Ksenia</path>
+	</Route>
+	<Route id="Wlodzimierz">	
+		<path>Ksenia->Wlodzimierz</path>
+	</Route>
+</company>

@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<company>
+	<Node id="Artur">
+		<serverport>11111</serverport>
+	</Node>
+	<Neighbour id="Bartosz">
+		<serverport>11112</serverport>
+	</Neighbour>
+	<Neighbour id="Ksenia">
+		<serverport>11114</serverport>
+	</Neighbour>
+	<Route id="Bartosz">	
+		<path>Bartosz</path>
+		<path>Ksenia->Oskar->Bartosz</path>
+		<path>Ksenia->Oskar->Zdzisia->Gosia->Cyryl->Wlodzimierz->Bartosz</path>
+		<path>Ksenia->Oskar->Cyryl->Wlodzimierz->Bartosz</path>
+		<path>Ksenia->Zosia->Zdzisia->Oskar->Bartosz</path>
+		<path>Ksenia->Zosia->Zdzisia->Oskar-Cyryl->Wlodzimierz->Bartosz</path>
+		<path>Ksenia->Zosia->Zdzisia->Gosia->Cyryl->Oskar->Bartosz</path>
+		<path>Ksenia->Zosia->Zdzisia->Gosia->Cyryl->Wlodzimierz->Bartosz</path>
+	</Route>
+</company>

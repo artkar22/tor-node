@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<company>
+	<Node id="Artur">
+		<serverport>11111</serverport>
+	</Node>
+	<Node id="Bartosz">
+		<serverport>11112</serverport>
+	</Node>
+	<Node id="Wlodzimierz">
+		<serverport>11113</serverport>
+	</Node>
+	<Node id="Ksenia">
+		<serverport>11114</serverport>
+	</Node>
+	<Node id="Oskar">
+		<serverport>11115</serverport>
+	</Node>
+	<Node id="Cyryl">
+		<serverport>11116</serverport>
+	</Node>
+	<Node id="Zosia">
+		<serverport>11117</serverport>
+	</Node>
+	<Node id="Zdzisia">
+		<serverport>11118</serverport>
+	</Node>
+	<Node id="Gosia">
+		<serverport>11119</serverport>
+	</Node>
+</company>

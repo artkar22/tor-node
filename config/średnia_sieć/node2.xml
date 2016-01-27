@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<company>
+	<Node id="Bartosz">
+		<serverport>11112</serverport>
+	</Node>
+	<Neighbour id="Artur">
+		<serverport>11111</serverport>
+	</Neighbour>
+	<Neighbour id="Wlodzimierz">
+		<serverport>11113</serverport>
+	</Neighbour>
+	<Neighbour id="Ksenia">
+		<serverport>11114</serverport>
+	</Neighbour>
+</company>
